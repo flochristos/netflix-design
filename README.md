@@ -1,6 +1,6 @@
-# netflix
+# netflix app design
 
-![Screenshot 2024-04-15 at 5 47 16 PM](https://github.com/flochristos/netflix-design/assets/16188768/98bac091-ccba-4d9b-a3a1-22c4895379d5)
+<img src="https://github.com/flochristos/netflix-design/assets/16188768/98bac091-ccba-4d9b-a3a1-22c4895379d5" width="250" height="300">
 
 
 A new Flutter project.
